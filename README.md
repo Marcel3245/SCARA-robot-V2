@@ -1,4 +1,7 @@
-## The Project
+
+https://github.com/user-attachments/assets/8498249f-dccf-4a42-b778-3f5a36c8948a
+
+## SCARA Robot
 <p align="center">
   <img width="744" height="670" alt="image" src="https://github.com/user-attachments/assets/7cd8bc58-c5da-4a07-8dc2-b7024a96c532" />
 </p>
@@ -6,6 +9,10 @@
 This project features a 3D-printed robotic arm with four articulated joints, designed for precise and smooth movement. The arm consists of 40 lightweight parts modeled in Autodesk Fusion and includes custom electronics designed with KiCAD 8.0.
 
 It is powered by a 12V DC system and driven by four Nema17 stepper motors with A4988 stepper drivers, all controlled by an Arduino Uno. A custom C# desktop application enables intuitive control and real-time debugging of the arm's movement.
+
+<p align="center">
+  Uploading Pick_and_place_SCARA_robot_compressed.mp4…
+</p>
 
 **Key Features:**
 - 4-axis articulated robotic arm
