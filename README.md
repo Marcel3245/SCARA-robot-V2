@@ -22,5 +22,5 @@ The resulting robotic arm operates reliably with four articulated joints, each f
 https://www.thingiverse.com/thing:7028567
 
 <p align="center">
-  <img width="418" height="443" alt="image" src="https://github.com/user-attachments/assets/eb980cd1-2861-4b8a-96ba-4c7ca1b1e934" />
+  <img width="911" height="658" alt="image" src="https://github.com/user-attachments/assets/d6f8ebac-6fd7-402e-8633-268e5c2c5db7" />
 </p>
