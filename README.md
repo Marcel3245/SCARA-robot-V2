@@ -16,4 +16,7 @@ The resulting robotic arm operates reliably with four articulated joints, each f
 
 3D model:
 https://www.thingiverse.com/thing:7028567
-![SCARA_3Dimension_View](https://github.com/user-attachments/assets/66523097-a096-439b-a7c6-7f316fe43a99)
+
+<p align="center">
+  <img width="418" height="443" alt="image" src="https://github.com/user-attachments/assets/eb980cd1-2861-4b8a-96ba-4c7ca1b1e934" />
+</p>
